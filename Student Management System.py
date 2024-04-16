@@ -303,7 +303,7 @@ def show_table():
 
 def password():
     password_entry = input("Enter the password : ")
-    if password_entry == "arjit":
+    if password_entry == "shivang":
         main()
         x = str(input("Are you using this on your PC for the first time (Y/N) : "))
         if x == "y" or x == "Y":
